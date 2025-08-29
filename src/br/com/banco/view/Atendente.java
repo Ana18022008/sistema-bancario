@@ -10,13 +10,13 @@ public class Atendente {
 
     public int escolhaAcao() { //para escolher a ação inicial
         System.out.println("\n -------- MENU --------");
-        System.out.println("|1. Cadastrar Conta");//feito
-        System.out.println("|2. Depositar");//feito
-        System.out.println("|3. Sacar");//feito
-        System.out.println("|4. Transferir"); //feito
+        System.out.println("|1. Cadastrar Conta");
+        System.out.println("|2. Depositar");
+        System.out.println("|3. Sacar");
+        System.out.println("|4. Transferir");
         System.out.println("|5. Listar Contas");
-        System.out.println("|6. Excluir conta");//feito
-        System.out.println("|7. Pesquisar por número");//feito
+        System.out.println("|6. Excluir conta");
+        System.out.println("|7. Pesquisar por número");
         System.out.println("| -----------------------");
         System.out.println("|0. Sair");
         System.out.println("| -----------------------");
